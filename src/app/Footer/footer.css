@@ -1,0 +1,90 @@
+ 
+ 
+ .container1{
+    margin-top: 0px;
+    background-color: rgb(25, 34, 75);
+    height: 400px;
+    width: auto; 
+ }
+
+ .sec1{
+    background-color: rgb(25, 34, 75);
+height:200px;
+width: auto;
+
+
+ }
+
+
+ .row{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    height:1200px;
+    width: auto;
+    color: white;
+
+ }
+ .colm1 {
+    height:100px;
+    width: 250px;
+    margin-left: 30px;
+     
+    
+
+ }
+ 
+
+
+ .colm2{
+    height: 100px;
+    width: 250px;
+    
+
+ }
+  
+ .colm3{
+    height: 100px;
+    width: 250px;
+
+ }
+ 
+ 
+ .colm4{
+     height: 100px;
+     width: 250px;
+    
+}
+
+hr{
+    margin-top: 30px;
+    margin-top: 30px;
+}
+ 
+ .cnt1{
+   
+    
+    height: 200px;
+    width:auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+ }
+  
+ .copy{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 30px;
+   font-weight: bold;
+   color: white;
+   margin-left: 30px;
+   
+ }
+
+ .cnt2{
+     
+    height:50px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+     
+ } 

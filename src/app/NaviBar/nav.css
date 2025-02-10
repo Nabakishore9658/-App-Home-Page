@@ -1,0 +1,38 @@
+ nav{
+    position:sticky;
+    top: 2px;
+ }
+ 
+ul{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin-top: 0px;
+    list-style-type: none;
+    width:auto;
+    line-height: 1.5cm;
+    
+     background-color: white;
+
+    
+
+    
+  }
+  #pht{
+    height: .9cm;
+    width: auto;
+  }
+  ul li {
+    padding-top: 10px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 20px;
+    padding: 10px;
+    
+   
+  }
+  li:hover{
+    color: blue;
+  }
+ 
+  
